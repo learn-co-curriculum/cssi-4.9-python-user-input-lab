@@ -1,5 +1,5 @@
 languages:
-  - Python
+  - python
 tags:
   - cssi, python
   - variables
