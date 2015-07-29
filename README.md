@@ -1,9 +1,4 @@
----
-  tags: raw_input(), variables, strings, interpolation
-  languages: python
-  level: 1
-  type: lab
----
+
 
 ## User Input Mini App
 Let's build a simple input/output app. The main objective is to create an application that _takes in user input, does something with that input, and then prints out an output_.
