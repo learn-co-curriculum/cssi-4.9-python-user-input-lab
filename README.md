@@ -27,4 +27,4 @@ Nights: 3
 
 Remember, you can execute your code by typing `python trip.py` in terminal from inside the directory of this lab. Good luck!
 
-<a href='https://learn.co/lessons/cssi-4.9-python-user-input-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.9-python-user-input-lab' title='User Input Mini App'>User Input Mini App</a> on Learn.co and start learning to code for free.</p>
